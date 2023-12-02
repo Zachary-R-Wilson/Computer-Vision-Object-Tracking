@@ -1,9 +1,0 @@
-
-
-- OpenCV to feed frame by frame of the video input
-- torchvison will give the pretrained model
-    = looking at using fasterrcnn_resnet50_fpn_v2 as the model
-
-- Stream video input from phone to pc
-
-
